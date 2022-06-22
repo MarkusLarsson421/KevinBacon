@@ -1,0 +1,10 @@
+<a>Bacon, Kevin (I)
+<t>Sleepers (1996)
+<t>Frost/Nixon (2008)
+<a>De Niro, Robert
+<t>Sleepers (1996)
+<a>Ford, Gerald (I)
+<t>Frost/Nixon (2008)
+<t>Brother Can You Spare a Dime (1975)
+<a>Garbo, Greta
+<t>Brother Can You Spare a Dime (1975)

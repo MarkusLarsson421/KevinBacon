@@ -30,7 +30,7 @@ public class Main{
 				case 'K':
 				case 'k':
 					String actor = input.getString("Actor");
-					kb.getBaconNumber(actor);
+					kb.printBaconNumber(actor);
 					break;
 				case 'E':
 				case 'e':
@@ -38,7 +38,6 @@ public class Main{
 					break;
 				default:
 					System.out.println("Error: Unknown command!");
-					
 			}
 		}
 	}
